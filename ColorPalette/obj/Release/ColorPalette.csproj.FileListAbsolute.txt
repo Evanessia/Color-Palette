@@ -1,0 +1,6 @@
+C:\Users\Evanessia\Documents\Visual Studio 2019\Projects\ColorPalette\ColorPalette\bin\Release\ColorPalette.exe.config
+C:\Users\Evanessia\Documents\Visual Studio 2019\Projects\ColorPalette\ColorPalette\bin\Release\ColorPalette.exe
+C:\Users\Evanessia\Documents\Visual Studio 2019\Projects\ColorPalette\ColorPalette\bin\Release\ColorPalette.pdb
+C:\Users\Evanessia\Documents\Visual Studio 2019\Projects\ColorPalette\ColorPalette\obj\Release\ColorPalette.csproj.CoreCompileInputs.cache
+C:\Users\Evanessia\Documents\Visual Studio 2019\Projects\ColorPalette\ColorPalette\obj\Release\ColorPalette.exe
+C:\Users\Evanessia\Documents\Visual Studio 2019\Projects\ColorPalette\ColorPalette\obj\Release\ColorPalette.pdb
